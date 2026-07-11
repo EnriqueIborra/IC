@@ -8,7 +8,7 @@ Fes servir ![traductor](docs/imgs/icono-trad-google.png) per visualitzar en altr
 
 Codi Mòdul: 5021 – Incidents de Ciberseguretat
 
-Del CE - CETI, Curs d'Especialització de Ciberseguretat En Tecnologies de la Informació
+Del CE - CETI, Curs d'Especialització de Ciberseguretat en Entorns de les Tecnologies de la Informació
 
 # UNDER CONSTRUCTION
 ![CID](docs/imgs/under-contruction.png)
