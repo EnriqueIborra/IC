@@ -11,6 +11,7 @@ Codi Mòdul: 5021 – Incidents de Ciberseguretat
 Del CE - CETI, Curs d'Especialització de Ciberseguretat en Entorns de les Tecnologies de la Informació
 
 # UNDER CONSTRUCTION
+## Esta pàgina encara es troba en periode de revisió...
 ![CID](docs/imgs/under-contruction.png)
 
 D'acord amb el “Reial decret 479/2020, de 7 d'abril, pel qual s'estableix el Curs de “especialització en ciberseguretat en entorns de les tecnologies de la informació”
