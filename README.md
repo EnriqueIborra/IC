@@ -30,6 +30,12 @@ RA5. Detecta i documenta incidents de ciberseguretat seguint procediments d'actu
 ## Criteris d'avaluació
 Els criteris d'avaluació es poden consultar a la pàgina web
 
+I d'acord amb DECRET 95/2026, de 19 de juny, del Consell, pel qual s’establixen els currículums dels cursos d’especialització de
+Formació Professional per a la Comunitat Valenciana, en aplicació de la Llei orgànica 3/2022, de 31 de març,
+d’ordenació i integració de la Formació Professional, 
+El mòdul d'Incidents de Ciberseguretat tindrà una docència presencial de 120 hores al llarg del curs, distribuïdes en 30 setmanes,
+a 4 hores per setmana.
+
 Pàgina principal :  https://enriqueiborra.github.io/IC/ 
 
 
