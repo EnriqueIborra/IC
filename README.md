@@ -7,9 +7,9 @@ Fes servir ![traductor](docs/imgs/icono-trad-google.png) per visualitzar en altr
 
 Per al Mòdul: 0377 - Administració de Sistemes de Gestió de Bases de Dades
 
-Del cicle CFGS ASIX
+Del CE - CETI
 
-![CID](docs/imgs/sistemas-GBD.jpg)
+![CID](docs/imgs/under-contruction.png)
 
 D'acord amb el Reial decret 1629/2009, de 30 d'octubre, i actualitzat en Reial decret 500/2024, de 21 de maig, 
 pel qual s'estableix el títol de tècnic superior en administració de sistemes informàtics en xarxa i 
