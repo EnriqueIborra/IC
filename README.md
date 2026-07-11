@@ -36,6 +36,6 @@ d’ordenació i integració de la Formació Professional,
 El mòdul d'Incidents de Ciberseguretat tindrà una docència presencial de 120 hores al llarg del curs, distribuïdes en 30 setmanes,
 a 4 hores per setmana.
 
-Pàgina principal :  https://enriqueiborra.github.io/IC/ 
+Pàgina principal de continguts del curs :  https://enriqueiborra.github.io/IC/ 
 
 
