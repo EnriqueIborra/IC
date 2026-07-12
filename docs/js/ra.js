@@ -337,3 +337,39 @@ document.addEventListener("DOMContentLoaded", () => {
 
 });
 
+
+
+/*==========================================
+    Posar el mateix footer a totes les ra_0x.html
+==========================================*/
+
+document.addEventListener("DOMContentLoaded", () => {
+
+    const footer = document.querySelector("footer");
+
+    if (!footer) return;
+
+    const resultats = [
+        "Prevenció i conscienciació en ciberseguretat",
+        "Anàlisi d'incidents de ciberseguretat",
+        "Investigació d'incidents de ciberseguretat",
+        "Resposta davant incidents de ciberseguretat",
+        "Notificació i documentació d'incidents de ciberseguretat"
+    ];
+
+    const pagina = window.location.pathname.split("/").pop();
+
+    // "ra_03.html" -> 2
+    const index = parseInt(pagina.substring(3, 5), 10) - 1;
+
+    footer.innerHTML = `
+        <p>Mòdul: Incidents de Ciberseguretat</p>
+
+        <p><strong>Resultat d'Aprenentatge ${index + 1}</strong> · ${resultats[index]}</p>
+
+        <p style="font-family:'CCSymbols',sans-serif;font-size:larger;">
+            2026 ·· Llicència: &#x1F16D; &#x1F16F; &#x1F10E; &#x1F10F;
+        </p>
+    `;
+
+});
