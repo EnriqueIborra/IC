@@ -1016,7 +1016,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         <p>Criteris d'avaluació</p>
 
-         <p style="font-family: 'CCSymbols', sans-serif; font-size:larger;" >
+         <p style="font-family: 'CCSymbols'; font-size:larger;" >
          2026 ·· Llicència: &#x1F16D; &#x1F16F; &#x1F10E; &#x1F10F;          </p>
     `;
 
