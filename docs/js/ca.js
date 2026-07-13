@@ -1016,13 +1016,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         <p>Criteris d'avaluació</p>
 
-    <p style="font-family:'CCSymbols',font-size:larger;">
-            2026 ··- Llicència: &#x1F16D; &#x1F16F; &#x1F10E; &#x1F10F;
-            <img src="ico/cc.svg" alt="CC" width="24" height="24"></img>
-            <img src="ico/by.svg" alt="CC" width="24" height="24"></img>
-            <img src="ico/nc.svg" alt="CC" width="24" height="24"></img>
-            <img src="ico/sa.svg" alt="CC" width="24" height="24"></img>
-    </p>
+    <p style="font-family:'CCSymbols' ; font-size:larger;">  
+                2026 ·· Llicència: &#x1F16D; &#x1F16F; &#x1F10E; &#x1F10F;       </p>
+
     `;
 
 });

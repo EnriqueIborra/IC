@@ -367,8 +367,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
         <p><strong>Resultat d'Aprenentatge ${index + 1}</strong> · ${resultats[index]}</p>
 
-        <p style="font-family:'CCSymbols',font-size:larger;">
-            2026 -- ·· Llicència: &#x1F16D; &#x1F16F; &#x1F10E; &#x1F10F;
+        <p style="font-family: 'CCSymbols' ; font-size:larger;">
+            2026  ·· Llicència: &#x1F16D; &#x1F16F; &#x1F10E; &#x1F10F;
         
         </p>
     `;
