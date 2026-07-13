@@ -1,4 +1,10 @@
-
+@font-face {
+  font-family: 'CCSymbols';
+  src: url('fonts/CCSymbols.woff2') format('woff2'),
+       url('fonts/CCSymbols.woff') format('woff');
+  font-display: swap;
+  unicode-range: U+00A9, U+229C, U+1F10D-1F10F, U+1F16D-1F16F;
+}
 
 :root{
 
